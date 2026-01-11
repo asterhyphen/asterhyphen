@@ -11,8 +11,7 @@ Sophomore • Information Science & Engineering<br>
 
 <div align="center">
 
-<img src="https://metrics.lecoq.io/asterhyphen" />
-
+<img src="https://metrics.lecoq.io/asterhyphen" alt="GitHub Metrics" />
 
 </div>
 

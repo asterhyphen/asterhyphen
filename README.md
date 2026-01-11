@@ -11,7 +11,7 @@ Sophomore • Information Science & Engineering<br>
 
 <div align="center">
 
-![Metrics](https://raw.githubusercontent.com/lowlighter/metrics/master/examples/metrics.base.svg)
+![Stats](https://github-readme-stats.vercel.app/api?username=asterhyphen&show_icons=true)
 
 </div>
 

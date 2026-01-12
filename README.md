@@ -11,7 +11,9 @@ Sophomore • Information Science & Engineering<br>
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=asterhyphen&show_icons=true)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=asterhyphen&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asterhyphen&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asterhyphen&theme=tokyonight" />
 
 </div>
 
